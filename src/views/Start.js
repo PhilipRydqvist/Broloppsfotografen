@@ -1,5 +1,5 @@
 function start (){
 return (
-    <p>BRÖLLOPSFOTOGRAFEN</p>
+    <h1>BRÖLLOPSFOTOGRAFEN</h1>
 )
 }
